@@ -32,7 +32,8 @@
 ![Avantee's github stats](https://github-readme-stats.vercel.app/api?username=avantee28&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avantee28&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
+<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+"Navigating the exciting path of self-discovery, </b>I find joy in every lesson learned and embrace growth as a constant companion!</b> 😊</em></p>
 
 <p align="center"> **If you like this readme file, please give me star! 🌟**</p>
 <p align="center">Made with ❤️ in BHARAT 🇮🇳</p>
